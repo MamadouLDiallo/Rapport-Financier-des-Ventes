@@ -33,4 +33,6 @@ Ce projet présente un **dashboard interactif Power BI** conçu pour analyser le
 👉 Ce dashboard illustre la puissance de **Power BI** pour transformer des données financières en **insights exploitables**, facilitant ainsi le pilotage et l’anticipation stratégique.
 
 
+
+
 <img width="1113" height="647" alt="image" src="https://github.com/user-attachments/assets/f406330b-337e-4698-b326-b6d49bc9b737" />
